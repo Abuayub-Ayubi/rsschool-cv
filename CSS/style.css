@@ -8,9 +8,9 @@
 }
 
 * {
-    margin:0px; 
-    padding:0px; 
-    box-sizing: border-box; 
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
     font-family: system-ui;
 }
 
@@ -19,61 +19,61 @@ body {
     text-align: justify;
 }
 .col-div-3 {
-    width: 25%; 
+    width: 25%;
     float: left;
 }
 .col-div-6 {
-    width: 50%; 
-    float: left; 
+    width: 50%;
+    float: left;
     position: relative;
 }
 .clearfix {
     clear: both;
 }
 .resume-main {
-    width: 700px; 
-    height: 800px; 
+    width: 700px;
+    height: 800px;
 	background: linear-gradient(var(--one), var(--two));
 	margin: 50px auto;
 	box-shadow:5px 5px 5px 5px #54585d33;
 }
 .left-box {
-    width: 35%; 
-    float: left; 
+    width: 35%;
+    float: left;
     height: 700px;
 }
 .right-box {
-    width: 65%; 
-    float: left; 
-    background-color: var(--white); 
+    width: 65%;
+    float: left;
+    background-color: var(--white);
     height: 700px;
-	margin: 50px 0px; 
-    border-radius: 50px 0px 0px 50px; 
+	margin: 50px 0px;
+    border-radius: 50px 0px 0px 50px;
     padding:30px 50px;
 	box-shadow: -7px 2px 15px 2px #54585d52;}
 .profile {
-    width: 150px; 
-    height: 150px; 
-    border: 3px solid var(--white); 
-	padding: 7px; 
-    border-radius: 50%; 
+    width: 150px;
+    height: 150px;
+    border: 3px solid var(--white);
+	padding: 7px;
+    border-radius: 50%;
     margin: 20px auto;}
 .profile img {
-    width: 100%; 
+    width: 100%;
     border-radius: 50%;
 }
-.content-box {    
+.content-box {
     padding: 0px 40px 0px 45px;
 }
 .content-box h2 {
     text-transform: uppercase;
     font-weight: 500;
-    color: var(--white); 
-	letter-spacing: 1px; 
+    color: var(--white);
+	letter-spacing: 1px;
     font-size: 20px;}
 .hr1 {
-    border: none; 
-    height: 1px; background: var(--white); 
+    border: none;
+    height: 1px; background: var(--white);
     margin-top: 3px;
 }
 .p1 {
@@ -117,9 +117,9 @@ body {
     font-weight: 500;
 }
 .p2 {
-    font-size: 13px; 
-    margin-bottom: 5px; 
-    margin-top: 5px; 
+    font-size: 13px;
+    margin-bottom: 5px;
+    margin-top: 5px;
     color: var(--white);
 }
 .circle {
@@ -129,47 +129,47 @@ body {
     color: white;
 }
 .circle1 {
-    color:var(--process); 
-    font-size: 14px!important; 
+    color:var(--process);
+    font-size: 14px!important;
     margin-top: 7px;
 }
 .in {
     background:var(--white);
     color: var(--one);
     padding: 8px;
-    border-radius: 20px; 
+    border-radius: 20px;
     font-size: 14px!important;
 }
-.inp { 
-    color: var(--white); 
+.inp {
+    color: var(--white);
     font-size: 11px;
 }
-.col3 { 
+.col3 {
     text-align: center;
 }
 h1 {
-    font-size: 50px; 
-    text-transform: uppercase; 
-    color: var(--black); 
+    font-size: 50px;
+    text-transform: uppercase;
+    color: var(--black);
     line-height: 50px;}
 h1 span {
     color: var(--one);
 }
-.p3 { 
+.p3 {
     letter-spacing: 4px;
-    color: #54585d; 
+    color: #54585d;
     font-weight: 500;
 }
-.heading { 
+.heading {
     text-transform: uppercase;
     font-weight: 500;
-    color: var(--one); 
-	letter-spacing: 1px; 
+    color: var(--one);
+	letter-spacing: 1px;
     font-size: 20px;}
-.hr2 { 
-    border: none; 
-    height: 1px; 
-    background: var(--black); 
+.hr2 {
+    border: none;
+    height: 1px;
+    background: var(--black);
     margin-top: 3px;
 }
 .p5 {
