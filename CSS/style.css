@@ -61,7 +61,8 @@ header {
     border: 3px solid var(--white);
 	padding: 7px;
     border-radius: 50%;
-    margin: 20px auto;}
+    margin: 20px auto;
+}
 .profile img {
     width: 100%;
     border-radius: 50%;
@@ -172,7 +173,8 @@ h1 span {
     font-weight: 500;
     color: var(--one);
 	letter-spacing: 1px;
-    font-size: 20px;}
+    font-size: 20px;
+}
 .hr2 {
     border: none;
     height: 1px;
@@ -186,10 +188,6 @@ h1 span {
 .span1, i {
     font-size: 12px;
     color: var(--black);
-}
-
-.col-div-12 {
-    text-align: justify;
 }
 
 a {
