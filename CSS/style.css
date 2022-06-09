@@ -129,9 +129,8 @@ header {
     color: white;
 }
 .circle1 {
-    color:var(--process);
-    font-size: 14px!important;
-    margin-top: 7px;
+    
+
 }
 .in {
     background:var(--white);
