@@ -202,3 +202,10 @@ ul {
 li {
     margin-bottom: 20px;
 }
+
+footer a {
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-left: 250px;
+}
