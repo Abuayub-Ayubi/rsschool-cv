@@ -26,6 +26,8 @@ body {
     width: 50%;
     float: left;
     position: relative;
+    display: flex;
+    justify-content: space-between;
 }
 .clearfix {
     clear: both;
@@ -50,7 +52,9 @@ header {
 	margin: 50px 0px;
     border-radius: 50px 0px 0px 50px;
     padding:30px 50px;
-	box-shadow: -7px 2px 15px 2px #54585d52;}
+	box-shadow: -7px 2px 15px 2px #54585d52;
+    margin-bottom: 0;
+}
 .profile {
     width: 150px;
     height: 150px;
@@ -123,13 +127,17 @@ header {
     color: var(--white);
 }
 .circle {
-    width: 10px;
-    height: 10px;
+    width: 18px;
+    height: 18px;
     border-radius: 50%;
-    color: white;
+    background-color: white;
 }
+
 .circle1 {
-    
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: var(--process);
 
 }
 .in {
